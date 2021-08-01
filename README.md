@@ -4,7 +4,7 @@
 
 ## WELCOME! 👋
 
-This is a website that was developed during the BedimCode channel class, where we set up the structure based on the Mobile First model. This is a site that uses recent CSS3 technologies, which allowed us to also put a night mode and make it adapt to different screen sizes. This BedimCode channel is great for anyone who wants to learn techniques on how to develop a website in practice, as it shows us step by step how to develop the website.
+This is a website that was developed during the BedimCode channel lesson, where we set up the structure based on the Mobile First model. This is a site that uses recent CSS3 technologies, which allowed us to also put a night mode and make it adapt to different screen sizes. This BedimCode channel is great for anyone who wants to learn techniques on how to develop a website in practice, as it shows us step by step how to develop the website.
 
 ## Follow the social networks of the BedimCode
 
