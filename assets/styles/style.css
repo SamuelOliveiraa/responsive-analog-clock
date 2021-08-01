@@ -1,6 +1,6 @@
 /* VARIABLES */
 :root{
-    --hue-color: 240; /* BLUE: 240 - GREEN: 154 - ORANGE: 25 */
+    --hue-color: 25; /* BLUE: 240 - GREEN: 154 - ORANGE: 25 */
 
     --first-color: hsl(var(--hue-color), 53%, 49% );
     --title-color: hsl(var(--hue-color), 53%, 15% );
