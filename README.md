@@ -21,6 +21,7 @@ This is a website that was developed during the BedimCode channel lesson, where 
 * Flexbox
 * Media-Querie
 * Grid Layout
+* Responsive Website
 
 ## Access this site 💻
 
