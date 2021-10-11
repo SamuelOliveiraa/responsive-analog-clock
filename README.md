@@ -1,6 +1,6 @@
 # BedimCode - Responsive Analog Clock - ([Click Here](https://samueloliveiraa.github.io/responsive-analog-clock/))
 
-![Clock](https://github.com/SamuelOliveiraa/responsive-analog-clock/blob/main/assets/images/screencapture-127-0-0-1-5500-index-html-2021-07-31-20_08_41.png)
+![Clock](./assets/images/desktop-preview.jpg)
 
 ## WELCOME! 👋
 
